@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jrlk7022stmpkkc9?svg=true)](https://ci.appveyor.com/project/DMITRI4IVANOV/api-ci-y424c)
